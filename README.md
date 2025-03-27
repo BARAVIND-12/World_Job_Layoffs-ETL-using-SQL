@@ -13,7 +13,7 @@ This Project deals  with extraction of raw data,transforming  the raw data into 
 - Improt the raw dataset into sql workbench.
 - Analyze the dataset.
 - Find the empty/blank values in the data using sql query and remove it. 
-- remove the unnecessary rows and columns from the table using DELETE/DROP Function. 
+- Now,Standardize the Dataset and remove any unnecessary rows and columns from the table. 
 - Transform it into a useful data and Export the dataset. 
 
 ## Result
