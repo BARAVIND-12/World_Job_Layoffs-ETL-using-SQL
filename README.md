@@ -1,7 +1,8 @@
 # World_Job_layoffs(ETL) Using SQL
 
 ## Project Objective
-This Project deals  with extraction of raw data,transforming  the raw data into a meaningful dataset using sql.
+- This Project deals  with the Global Job Layoffs in many countries during pandemic. The process of extracting the raw data,transforming  the raw data into a meaningful dataset like     
+  companies,industries,countries using sql.
 
 ## dataset used
 <a href="https://github.com/BARAVIND-12/World_Job_Layoffs-ETL-using-SQL/blob/main/Raw%20Dataset-World_layoffs.csv">Dataset<a>.
@@ -17,6 +18,6 @@ This Project deals  with extraction of raw data,transforming  the raw data into 
 - Transform it into a useful data and Export the dataset. 
 
 ## Result
-The dataset after the ETL process:
+- The dataset after the ETL process:
 <a href="https://github.com/BARAVIND-12/World_Job_Layoffs-ETL-using-SQL/blob/main/Raw%20Dataset-World_layoffs.csv">Transformed Dataset<a>
 
