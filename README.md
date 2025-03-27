@@ -7,7 +7,7 @@ This Project deals  with extraction of raw data,transforming  the raw data into 
 <a href="https://github.com/BARAVIND-12/World_Job_Layoffs-ETL-using-SQL/blob/main/Raw%20Dataset-World_layoffs.csv">Dataset<a>.
 
 ## Task
-- Use the raw data and transform it into a meaningful data for futhur use. 
+- Use the raw data and transform it into a meaningful data for future use. 
 
 ## Process
 - Improt the raw dataset into sql workbench.
