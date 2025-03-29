@@ -21,3 +21,7 @@
 - The dataset after the ETL process:
 <a href="https://github.com/BARAVIND-12/World_Job_Layoffs-ETL-using-SQL/blob/main/Raw%20Dataset-World_layoffs.csv">Transformed Dataset<a>
 
+## Conclusion 
+- In this project, Designed and implemented an ETL pipeline to efficiently process and clean raw datasets, enhancing data consistency 
+and reliability. 
+• Utilized SQL for data extraction, transformation, and loading, ensuring accurate and structured data for analysis
